@@ -70,3 +70,4 @@ print the results of calling the functions in __index.js__.
 [`.tagName`]: https://developer.mozilla.org/en-US/docs/Web/API/Element/tagName
 [`.classList`]: https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
 # dana-frank-window-object-and-debugger
+# dana-frank-window-object-and-debugger
